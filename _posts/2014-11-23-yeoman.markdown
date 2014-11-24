@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Trying Yeoman"
+date: 2014-11-23 18:37
+categories: coding web yeoman bootstrap
+---
+[Yeoman](http://yeoman.io) is a way to quickly get an app up and running "without any of the narmal headaches associated with a manual setup." It provides "a generator ecosystem", using the 'yo' command. 
+
+From their site, "The Yeoman workflow is comprised of three types of tools for improving your productivity and satisfaction when building a web app: the scaffolding tool (yo), the build tool (Grunt, Gulp, etc) and the package manager (like Bower and npm)."
+
+Yeoman has a [good tutorial](http://yeoman.io/learning) so I'm not going to try to copy it here.
+
+##Yeoman workflow
+1. Use a generator to scaffold the web app. For example, after making and changing to the project direcory, run a generator:
+
+        $ yo webapp
+
+    Webapp is considered the simplest generator. There are more generators. You can [create your own](http://yeoman.io/authoring/) or use angular:
+
+        $ yo angular
+
+    Angular generator creates the directory structure and generates some boilerplate directives and controllers. You can also use subgenerators:
+
+        $ yo angular:controller myController
+        $ yo angular:directive myDirective
+        $ yo angular:filter myFilter
+        $ yo angular:service myService
+
+2. Bower is a package manager for any dependencies in your project, such as JavaScript, CSS, and images. The basic commands are as follows:
+
+        $ bower search <dep>
+        $ bower install <dep 1>...<dep n>
+        $ bower list
+        $ bower update <dep>
+
+    Using yo in combination with bower typically goes like this:
+
+        $ yo webapp
+        $ bower search jquery-pjax
+        $ bower install jquery-pjax --save
+        $ grunt wiredep  # inject deps into index.html file
+
+    The <code>--save</code> option in bower install updates the bower.json file with the new dependencies. Otherwise you have to manually add it later.
+
+3. Grunt is a task-based tool that exposes lots of useful commands for JavaScript projects. Such as these:
+    * Preview an app you've generated
+
+          $ grunt serve
+
+    * Run the unit test for an app
+
+          $ grunt test
+
+    * build a production-ready (optimized) version of the app
+
+          $ grunt
+
+
+##Making a web app
+In case you forget the commands, you can run <code>yo</code> in interactive mode if you give no args.
+
+    $ yo angular
+
+This sets up the following structure:
+
+* ***app***: parent directory for application
+    * **index.html**
+    * **404.html**, **favicon.ico**, **robots.txt**
+    * ***scripts***
+        * **app.js**: main Angular application code
+        * **controllers**: Angular controllers
+    * ***styles***: CSS files
+    * ***views***: Angular templates
+    * **bower_components, bower.json**: JS/web deps installed by Bower
+    * **Gruntfile.js, package.json, node_modes**: configs and deps required by Grunt tasks
+    * **test**: test boilerplate
+
+
+
