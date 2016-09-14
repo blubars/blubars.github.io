@@ -1,9 +1,8 @@
 ---
-date: 09/14/2016 14:47
+date: 2016-09-14 14:47
 title: Iceland Trip, Summer 2016
 categories: travel
 ---
-# Iceland Trip, Summer 2016!
 Tried to post daily for this one on my instagram/facebook this trip. Here a
 rough recount of our itinerary.
     * Note: Here is a brief lesson in Icelandic to help you with the names. When
@@ -26,26 +25,28 @@ rough recount of our itinerary.
   nice to relax in a hot spring (one of only 2 we did). And the water really is blue.
 * Tried to hit up some bars in Reykjavik, but Sunday night is not exactly the 
   best time for this. Ended up eating at popular little hot dog stand that was
-  thankfully opened after the bars' kitchens closed. _Bæjarins Beztu Pylsur_.
+  thankfully opened after the bars' kitchens closed. _BÃ¦jarins Beztu Pylsur_.
   Though pretty sure it was pork. Supposed to order with 'the works'. It tasted 
   quite unusual, mostly I think due to the sweet, fried onion, and the special sauce.
 * Slept in AirBnB near Reykjavik, lovely farm guest house w/ horses outside
 
+![Blue lagoon](https://instagram.fsnc1-2.fna.fbcdn.net/t51.2885-15/e35/13671873_150074418770246_559939324_n.jpg)
+
 ###Day 2: Mon 8/29
 * Woke up late due to some awful jet lag
-* Þingvellir (Thingvellir) National Park. 
-  * Almannagjá (tectonic/lava gorge you walk through)
+* Ãžingvellir (Thingvellir) National Park. 
+  * AlmannagjÃ¡ (tectonic/lava gorge you walk through)
   * Used to be the seat of the Icelandic national parliament. But if there were 
     remains, we hiked a mountain and got lost instead of seeing that. Good views 
     though, esp of the huge lake!
 * Back to Reykjavik for the evening, tried some "traditional Icelandic" tapas,
-  including Kjötsúpa (lamb meat soup -- amazing!), mink whale (I know, I feel
+  including KjÃ¶tsÃºpa (lamb meat soup -- amazing!), mink whale (I know, I feel
   terrible), Skyr-based deserts (Skyr is an Icelandic yogurt reminscent of greek 
   yogurt, and it is *everywhere*), dried fish with butter.
-* Walked around Reykjavic some more, including Hallgrímskirkja (cool concrete 
+* Walked around Reykjavic some more, including HallgrÃ­mskirkja (cool concrete 
   church, sticks out like a proudly sore thumb compared to the rest of the city)
 * Wanted to do Hveradalir (natural hot spring, 2-hr hike), but ran out of time.
-* Slept in AirBnB in Hvolsvöllur, briefly met some Australian girls. Notable
+* Slept in AirBnB in HvolsvÃ¶llur, briefly met some Australian girls. Notable
   because we hardly ever saw people after dark, much less talked to them :o
 
 ###Day 3: Tues 8/30
@@ -54,13 +55,13 @@ rough recount of our itinerary.
   photographer is traveling with one :D
     * Most popular of the 4 is Seljalandsfoss.
     * Anyway, it was worth it. Started getting crowded around 8am.
-    * Coolest one is the last of the 4, _Gljúfrabúi_ ("Canyon Dweller"). Have to
+    * Coolest one is the last of the 4, _GljÃºfrabÃºi_ ("Canyon Dweller"). Have to
       enter through a canyon, it's like a private room with a huge waterfall
       gushing all along one wall, like it's coming straight from the sky above.
 * Went back to the AirBnB, where we crashed, ate breakfast, and showered.
   Back on the road at noon.
-* Skógafoss. Another damn cool foss. Large and popular.
-    * Traveled by Eyjafjallajökull (volcano) and Skogar, wish could've spent more time here.
+* SkÃ³gafoss. Another damn cool foss. Large and popular.
+    * Traveled by EyjafjallajÃ¶kull (volcano) and Skogar, wish could've spent more time here.
 * Arrived in Vik, where we spent the night at an AirBnB.
 * Ate at a restaurant in Vik -- had Plokkfiskur (mashed fish). Good!
 * Went to black sand beaches in Vik as the sun was setting
@@ -78,30 +79,30 @@ rough recount of our itinerary.
   to the black sand beach. Way more cheerful in the sunlight. Hippies stacking
   rocks, dogs running in the surf, dozens of puffins swooping chaotically over
   the basalt cliffs, and even a paraglider.
-* Fjaðrárgljúfur -- canyon, 100m deep and 2km long. Awesome.
+* FjaÃ°rÃ¡rgljÃºfur -- canyon, 100m deep and 2km long. Awesome.
 * Skaftafell National Park
     * Svartifoss
-    * Missed: Laki craters, Jökulsárlón glacier
-* Ice Lagoon Zodiac boat tour (Jökulsárlón lagoon). REALLY COOL. Saw seals, sea
+    * Missed: Laki craters, JÃ¶kulsÃ¡rlÃ³n glacier
+* Ice Lagoon Zodiac boat tour (JÃ¶kulsÃ¡rlÃ³n lagoon). REALLY COOL. Saw seals, sea
   gulls raced alongside the boat, touched ancient ice, heard tales of sheep
   farming from our guide. Didn't see any ice break off the glacier, but so it
   goes
 * Another area I wish we could've spent more time in (Southern Iceland)
-* Dinner in Höfn at Pakkhús. Lamb. Creme brule with homemade licorice for desert.
-* Stayed in a hostel about 30 min outside of Höfn
+* Dinner in HÃ¶fn at PakkhÃºs. Lamb. Creme brule with homemade licorice for desert.
+* Stayed in a hostel about 30 min outside of HÃ¶fn
 
 ###Day 5: Thurs 9/1
-* Stopped in Höfn one last time, for fish & chips & groceries.
+* Stopped in HÃ¶fn one last time, for fish & chips & groceries.
 * Driving. Lots of driving.
 * Stopped briefly by one of the farms to pet and photograph some of the horses
   that had wandered over
 * Stopped along several beautiful little coastal towns
 * Admired the huge eastern Fijords, some with large swan populations close to
   shore
-* Dinner in Egilsstaðir, which is the largest town in East Iceland. The drive up
+* Dinner in EgilsstaÃ°ir, which is the largest town in East Iceland. The drive up
   from the coast to the town is beautiful. Baked cod with sweet potatos and salad.
 * Stopped in many more small towns.
-* Stayed at an AirBnB in Vagnsstaðir. Charming small town on the coast.
+* Stayed at an AirBnB in VagnsstaÃ°ir. Charming small town on the coast.
 * Watched a shitty movie from the owner's extensive collection -- Babylon A.D.
 * One of our party woke us up around 3am with one word -- "aurora!"
     * We ran outside and caught the tail end of a brief period of activity, hard
@@ -115,17 +116,17 @@ rough recount of our itinerary.
 * Left the coast and entered highlands. Very empty, not even much grass. 
 * Hverfjall volcano crater
 * Detifoss -- most powerful waterfall in Europe
-* Grjótagjá -- natural springs underground in lava cave, one of the Game of 
+* GrjÃ³tagjÃ¡ -- natural springs underground in lava cave, one of the Game of 
   Thrones film sites. Swimming not allowed/too hot sadly. Supposedly used to be 
   more secret but word has gotten out, and was fairly crowded.
 * Namafjall steam vents/mud pits
-* Mývatn Naturebaths -- did get to swim in this one! Again, fairly crowded and
+* MÃ½vatn Naturebaths -- did get to swim in this one! Again, fairly crowded and
   touristy, but way cheaper than blue lagoon and watched another gorgeous sunset
     * At the end, saw a brief flash of really powerful northern lights! The
       whole place gasped as a streak of brilliant green and purple raced and
       swirled rapidly overhead, before graying and slowly fading back to the dark blue of
       the twilight.
-* This whole area near Mývatn is another really cool area, rich with
+* This whole area near MÃ½vatn is another really cool area, rich with
   volcanic/geothermal activity and I wish we could've spent more time here!
     * [http://www.visitmyvatn.is/static/files/mustdolist.pdf]
 * Made it to Akureyri, the "capital of northern Iceland", where we were staying
@@ -136,9 +137,9 @@ rough recount of our itinerary.
 ###Day 7: Sat 9/3
 * Bummed around Akureyri in the morning, shopping and eating. Really good fish
   and chips. Ed tried fermented shark, apparently it was pretty bad :D
-* Whale watching in Húsavík. Really cool. Whales are beautiful creatures.
-* Dinner in Húsavík as well. Beautiful fishing town.
-* Was dark by this time, but still hit up Goðafoss. Wish we'd seen this one in
+* Whale watching in HÃºsavÃ­k. Really cool. Whales are beautiful creatures.
+* Dinner in HÃºsavÃ­k as well. Beautiful fishing town.
+* Was dark by this time, but still hit up GoÃ°afoss. Wish we'd seen this one in
   the daylight, but was awesome being pretty much the only people there in the
   starlight.
 * Northern lights!!!!!!!!!!!! Until it got too cloudy.
@@ -147,10 +148,10 @@ rough recount of our itinerary.
 ###Day 8: Sun 9/4
 * Botanical gardens in Akureyri
 * Drove through some small one-lane tunnels and small fishing towns in northern
-  fijords, near Siglufjörður. Beautiful drive off the ring road.
+  fijords, near SiglufjÃ¶rÃ°ur. Beautiful drive off the ring road.
 * chased some sheep, to our great amusement and the sheep's exasperation I'm
   sure.
-* Tried to see seals in Húnaþing, but saw none :( 
+* Tried to see seals in HÃºnaÃ¾ing, but saw none :( 
     * Did see some more amazing ocean sunset specimen
 * Slept near Hvammstangi in the most amazing AirBnB, isolated house near the coast
 
@@ -195,8 +196,8 @@ Iceland Options on Map: [https://www.google.com/maps/d/viewer?mid=1k1mcIFFIFGAnF
 Hotsprings Option on Map: [http://hotpotic/eland.com/]
 
 Things I missed, but would like to do if I go back:
-* Þríhnúkagígur volcano: The world's only volcano you can enter
-* Eyjafjallajökull -- volcano erupted in 2010, causing massive disruption to
+* ÃžrÃ­hnÃºkagÃ­gur volcano: The world's only volcano you can enter
+* EyjafjallajÃ¶kull -- volcano erupted in 2010, causing massive disruption to
   European flights. Featured in Secret Life of Walter Mitty. We drove near, but 
   it was very foggy and we were short on time.
 * Ice cave -- really can only do this in the winter.
