@@ -8,7 +8,7 @@ rough recount of our itinerary.
     * Note: Here is a brief lesson in Icelandic to help you with the names. When
       you see anything ending in 'foss', that is a waterfall. Okay, now you're ready.
 
-###Day 1: Sun 8/28/2016 -- Reykjavik
+### Day 1: Sun 8/28/2016 -- Reykjavik
 * Arrived in Reykjavik, landed 6am
     * Icelandair, direct from Denver! Note: buy food in airport. Purchase only on plane.
 * Met up w/ travel buddies, picked up Rental car (09 Subaru Forester) from
@@ -32,7 +32,7 @@ rough recount of our itinerary.
 
 ![Blue lagoon](https://instagram.fsnc1-2.fna.fbcdn.net/t51.2885-15/e35/13671873_150074418770246_559939324_n.jpg)
 
-###Day 2: Mon 8/29
+### Day 2: Mon 8/29
 * Woke up late due to some awful jet lag
 * Þingvellir (Thingvellir) National Park. 
   * Almannagjá (tectonic/lava gorge you walk through)
@@ -49,7 +49,7 @@ rough recount of our itinerary.
 * Slept in AirBnB in Hvolsvöllur, briefly met some Australian girls. Notable
   because we hardly ever saw people after dark, much less talked to them :o
 
-###Day 3: Tues 8/30
+### Day 3: Tues 8/30
 * Woke up at 5am to go see a collection of 4 waterfalls at sunrise. My idea
   I'm sad to say. As Ed said, only thing worse than traveling as an amateur
   photographer is traveling with one :D
@@ -74,7 +74,7 @@ rough recount of our itinerary.
 * Back at our apartment, watched ate Nutella and toast and watched Icelandic TV
 * Missed: Solheimasandur plane crash site. moderate hike.
 
-###Day 4: Wed 8/31
+### Day 4: Wed 8/31
 * After a Skyr/toast/eggs breakfast from the nearby grocery store, we drove back
   to the black sand beach. Way more cheerful in the sunlight. Hippies stacking
   rocks, dogs running in the surf, dozens of puffins swooping chaotically over
@@ -91,7 +91,7 @@ rough recount of our itinerary.
 * Dinner in Höfn at Pakkhús. Lamb. Creme brule with homemade licorice for desert.
 * Stayed in a hostel about 30 min outside of Höfn
 
-###Day 5: Thurs 9/1
+### Day 5: Thurs 9/1
 * Stopped in Höfn one last time, for fish & chips & groceries.
 * Driving. Lots of driving.
 * Stopped briefly by one of the farms to pet and photograph some of the horses
@@ -110,7 +110,7 @@ rough recount of our itinerary.
       white, almost like clouds but faster pulsing and flowing, otherworldly.
       Faded to black night and we went to bed.
 
-###Day 6: Fri 9/2
+### Day 6: Fri 9/2
 * Lots more driving. Stunning Fijords and tiny costal towns. The water in the
   fijords was surprisingly still in the mornings.
 * Left the coast and entered highlands. Very empty, not even much grass. 
@@ -134,7 +134,7 @@ rough recount of our itinerary.
     * Ate at a small food stand serving the Icelandic meat stew and hot dogs
 * Waited until about 2am, then drove out of town to look at the northern lights again
 
-###Day 7: Sat 9/3
+### Day 7: Sat 9/3
 * Bummed around Akureyri in the morning, shopping and eating. Really good fish
   and chips. Ed tried fermented shark, apparently it was pretty bad :D
 * Whale watching in Húsavík. Really cool. Whales are beautiful creatures.
@@ -145,7 +145,7 @@ rough recount of our itinerary.
 * Northern lights!!!!!!!!!!!! Until it got too cloudy.
 * Back to Akureyri for some bars, but we ended up taking it easy
 
-###Day 8: Sun 9/4
+### Day 8: Sun 9/4
 * Botanical gardens in Akureyri
 * Drove through some small one-lane tunnels and small fishing towns in northern
   fijords, near Siglufjörður. Beautiful drive off the ring road.
@@ -155,7 +155,7 @@ rough recount of our itinerary.
     * Did see some more amazing ocean sunset specimen
 * Slept near Hvammstangi in the most amazing AirBnB, isolated house near the coast
 
-###Day 9: Mon 9/5
+### Day 9: Mon 9/5
 * Drove back to Reykjavik. Some of the most beautiful land so far (or maybe just
   the freshest in my mind)
 * Explored a 1km cave, we were the only ones inside. Can't remember the name.
@@ -164,7 +164,7 @@ rough recount of our itinerary.
   party nights either. Everything shut down by 1am
     * Slept in our car
 
-###Day 10: Tues 9/6
+### Day 10: Tues 9/6
 * Drove back to the airport at 5am, returned our car
 * Flew back to the US
     * The following bullets are complaints/my memories, no need to read.
@@ -176,7 +176,7 @@ rough recount of our itinerary.
 
 A good trip!
 
-General Thoughts:
+### General Thoughts:
 * So many sheep! Fences are actually to keep them *out* of the pastures!
 * Beautiful country. Soooo pretty.
 * Not many trees! Lets you see as far as you want, so you can see all of the..
@@ -191,11 +191,11 @@ General Thoughts:
 * Grocery stores close early (6pm), so plan ahead. In all the smaller towns, there 
   are almost no restaurants, and what few there are, are expensive ($25-45 USD).
 
-Other links that may be useful:
-Iceland Options on Map: [https://www.google.com/maps/d/viewer?mid=1k1mcIFFIFGAnFXmLixgRjvL1NMI]
-Hotsprings Option on Map: [http://hotpotic/eland.com/]
+### Other links that may be useful:
+Iceland Options on Map: https://www.google.com/maps/d/viewer?mid=1k1mcIFFIFGAnFXmLixgRjvL1NMI
+Hotsprings Option on Map: http://hotpotic/eland.com/
 
-Things I missed, but would like to do if I go back:
+### Things I missed, but would like to do if I go back:
 * Þríhnúkagígur volcano: The world's only volcano you can enter
 * Eyjafjallajökull -- volcano erupted in 2010, causing massive disruption to
   European flights. Featured in Secret Life of Walter Mitty. We drove near, but 
