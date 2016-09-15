@@ -1,6 +1,7 @@
 ---
+layout: post
 date: 2016-09-14 14:47
-title: Iceland Trip, Summer 2016
+title: "Iceland Trip, Summer 2016!"
 categories: travel
 ---
 Here's a rough recount of our itinerary.
@@ -190,7 +191,7 @@ A good trip!
   are almost no restaurants, and what few there are, are expensive ($25-45 USD).
 
 ### Other links that may be useful:
-* Iceland Options on Map: https://www.google.com/maps/d/viewer?mid=1k1mcIFFIFGAnFXmLixgRjvL1NMI
+* Iceland Options on Map: <https://www.google.com/maps/d/viewer?mid=1k1mcIFFIFGAnFXmLixgRjvL1NMI>
 * Hotsprings Option on Map: <http://hotpotic/eland.com/>
 
 ### Things I missed, but would like to do if I go back:
