@@ -3,10 +3,10 @@ date: 2016-09-14 14:47
 title: Iceland Trip, Summer 2016
 categories: travel
 ---
-Tried to post daily for this one on my instagram/facebook this trip. Here a
-rough recount of our itinerary.
-    * Note: Here is a brief lesson in Icelandic to help you with the names. When
-      you see anything ending in 'foss', that is a waterfall. Okay, now you're ready.
+Here's a rough recount of our itinerary.
+Also tried to post daily for this one on my [instagram](https://www.instagram.com/blubars/), went okay! 
+> Note: Here's a brief lesson in Icelandic to help you with the names. When
+  you see anything ending in 'foss', it's a waterfall. Okay, you're ready.
 
 ### Day 1: Sun 8/28/2016 -- Reykjavik
 * Arrived in Reykjavik, landed 6am
@@ -29,8 +29,6 @@ rough recount of our itinerary.
   Though pretty sure it was pork. Supposed to order with 'the works'. It tasted 
   quite unusual, mostly I think due to the sweet, fried onion, and the special sauce.
 * Slept in AirBnB near Reykjavik, lovely farm guest house w/ horses outside
-
-![Blue lagoon](https://instagram.fsnc1-2.fna.fbcdn.net/t51.2885-15/e35/13671873_150074418770246_559939324_n.jpg)
 
 ### Day 2: Mon 8/29
 * Woke up late due to some awful jet lag
@@ -192,8 +190,8 @@ A good trip!
   are almost no restaurants, and what few there are, are expensive ($25-45 USD).
 
 ### Other links that may be useful:
-Iceland Options on Map: https://www.google.com/maps/d/viewer?mid=1k1mcIFFIFGAnFXmLixgRjvL1NMI
-Hotsprings Option on Map: http://hotpotic/eland.com/
+* Iceland Options on Map: https://www.google.com/maps/d/viewer?mid=1k1mcIFFIFGAnFXmLixgRjvL1NMI
+* Hotsprings Option on Map: <http://hotpotic/eland.com/>
 
 ### Things I missed, but would like to do if I go back:
 * Þríhnúkagígur volcano: The world's only volcano you can enter
