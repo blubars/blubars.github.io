@@ -1,13 +1,12 @@
 ---
 layout: post
-date: 2016-09-14 14:47
 title: "Iceland Trip, Summer 2016!"
 categories: travel
 ---
 Here's a rough recount of our itinerary.
 Also tried to post daily for this one on my [instagram](https://www.instagram.com/blubars/), went okay! 
 > Note: Here's a brief lesson in Icelandic to help you with the names. When
-  you see anything ending in 'foss', it's a waterfall. Okay, you're ready.
+> you see anything ending in 'foss', it's a waterfall. Okay, you're ready.
 
 ### Day 1: Sun 8/28/2016 -- Reykjavik
 * Arrived in Reykjavik, landed 6am
@@ -207,4 +206,3 @@ A good trip!
 * Generally ride bikes/hike. I don't feel I can ever truly experience a place's 
   beauty from inside a car.
 * Vidgelmir Cave
-
