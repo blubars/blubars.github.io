@@ -6,8 +6,8 @@ categories: travel
 # Iceland Trip, Summer 2016!
 Tried to post daily for this one on my instagram/facebook this trip. Here a
 rough recount of our itinerary.
-  * Note: Here is a brief lesson in Icelandic to help you with the names. When
-    you see anything ending in 'foss', that is a waterfall. Okay, now you're ready.
+    * Note: Here is a brief lesson in Icelandic to help you with the names. When
+      you see anything ending in 'foss', that is a waterfall. Okay, now you're ready.
 
 ###Day 1: Sun 8/28/2016 -- Reykjavik
 * Arrived in Reykjavik, landed 6am
