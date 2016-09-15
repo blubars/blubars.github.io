@@ -10,7 +10,7 @@ From their site, "The Yeoman workflow is comprised of three types of tools for i
 
 Yeoman has a [good tutorial](http://yeoman.io/learning) so I'm not going to try to copy it here.
 
-##Yeoman workflow
+## Yeoman workflow
 1. Use a generator to scaffold the web app. For example, after making and changing to the project direcory, run a generator:
 
         $ yo webapp
@@ -56,7 +56,7 @@ Yeoman has a [good tutorial](http://yeoman.io/learning) so I'm not going to try 
           $ grunt
 
 
-##Making a web app
+## Making a web app
 In case you forget the commands, you can run <code>yo</code> in interactive mode if you give no args.
 
     $ yo angular
