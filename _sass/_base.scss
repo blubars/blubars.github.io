@@ -192,6 +192,8 @@ pre {
  * Icons
  */
 .icon {
+    position:relative;
+    top:-3px;
 
     > svg {
         display: inline-block;

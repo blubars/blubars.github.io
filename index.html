@@ -1,8 +1,49 @@
 ---
 layout: default
 ---
-<div class="home">
-  <h1 class="page-heading">Posts</h1>
+<div class="home" style="text-align:center;">
+  <h1>Brian Lubars</h1>
+  <img src="{{ '/assets/img/profile-1.jpg' | prepend: site.baseurl }}" align="center" width="250" style="margin:1em;margin-top:0em;"/>
+
+  <ul class="social-media-list" style="font-size:1.3em;display:inline;">
+    <li>
+      <a href="https://facebook.com/blubars">
+        <span class="icon">
+          <img src="{{ '/assets/icons/logo-fb-24.png' | prepend: site.baseurl }}" />
+        </span>
+        <span class="username">blubars</span>
+      </a>
+      &middot;
+      <a href="https://instagram.com/blubars">
+        <span class="icon">
+          <img src="{{ '/assets/icons/logo-insta-24.png' | prepend: site.baseurl }}" />
+        </span>
+        <span class="username">blubars</span>
+      </a>
+      &middot;
+    {% if site.github_username %}
+      <a href="https://github.com/{{ site.github_username }}">
+        <span class="icon">
+          <img src="{{ '/assets/icons/logo-github-24.png' | prepend: site.baseurl }}" />
+        </span>
+        <span class="username">{{ site.github_username }}</span>
+      </a>
+      &middot;
+    {% endif %}
+    {% if site.twitter_username %}
+      <a href="https://twitter.com/{{ site.twitter_username }}">
+        <span class="icon">
+          <img src="{{ '/assets/icons/logo-twitter-24.png' | prepend: site.baseurl }}" />
+        </span>
+        <span class="username">{{ site.twitter_username }}</span>
+      </a>
+    {% endif %}
+    </li>
+  </ul>
+
+  <br /><hr /><br />
+
+  <h1 class="page-heading">Lastest Blog Posts</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -16,6 +57,9 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+      {% if forloop.index > 2 %}
+        {% break %}
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
