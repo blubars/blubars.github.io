@@ -7,6 +7,13 @@ layout: default
 
   <ul class="social-media-list" style="font-size:1.3em;display:inline;">
     <li>
+      <a href="https://linkedin.com/in/brian-lubars" target="_blank">
+        <span class="icon">
+          <img src="{{ '/assets/icons/logo-linkedin-24.png' | prepend: site.baseurl }}" />
+        </span>
+        <span class="username">brian-lubars</span>
+      </a>
+      &middot;
       <a href="https://facebook.com/blubars" target="_blank">
         <span class="icon">
           <img src="{{ '/assets/icons/logo-fb-24.png' | prepend: site.baseurl }}" />
@@ -41,7 +48,9 @@ layout: default
     </li>
   </ul>
 
-  <br /><hr /><br />
+  <br /><hr />
+  <p style="margin-top:0.7em">Amateur photographer, aimless wanderer, bagel eater, space heater. Occasionally I emit code.</p>
+  <hr /><br />
 
   <h1 class="page-heading">Lastest Blog Posts</h1>
   <ul class="post-list">
@@ -57,7 +66,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
-      {% if forloop.index > 2 %}
+      {% if forloop.index > 3 %}
         {% break %}
       {% endif %}
     {% endfor %}
