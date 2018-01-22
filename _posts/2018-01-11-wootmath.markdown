@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Unsupervised Learning and Student Math Misconceptions"
+date: 2018-01-11 13:37:17
+categories: project
+---
+This was our Machine Learning (CSCI 5622) final project. We worked with a local Boulder company, [WootMath](https://www.wootmath.com/), to see if we could apply unsupervised learning techniques to the area of personalized learning to automatically recognize types of student mistakes and misconceptions in grade school-level math problems (e.g. simplifying fractions). 
+

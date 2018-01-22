@@ -2,7 +2,8 @@
 layout: post
 title: "Trying Yeoman"
 date: 2014-11-23 18:37
-categories: coding web yeoman bootstrap
+categories: blog
+tags: coding web yeoman bootstrap
 ---
 [Yeoman](http://yeoman.io) is a way to quickly get an app up and running "without any of the narmal headaches associated with a manual setup." It provides "a generator ecosystem", using the 'yo' command. 
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Reflections on 2017"
-categories: thoughts
+categories: blog
+tags: thoughts
 ---
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/149630921@N02/36454018920/in/album-72157685683000424/" title="thailand-161217-296"><img src="https://farm5.staticflickr.com/4379/36454018920_375855e490_c.jpg" width="800" height="534" alt="thailand-161217-296"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

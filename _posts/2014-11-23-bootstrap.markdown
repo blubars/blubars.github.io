@@ -2,7 +2,8 @@
 layout: post
 title: "Responsive Layout with Bootstrap"
 date: 2014-11-23 18:37
-categories: experiment coding web bootstrap
+categories: blog
+tags: coding web bootstrap
 ---
 
 Making a responsive layout. Always put scripts at the bottom of the html body, so they don't slow down the page load. The stylesheets should go at the top so that the page doesn't render ugly, then render again after it loads the css.

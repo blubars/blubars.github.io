@@ -2,7 +2,8 @@
 layout: post
 title: "Learning AngularJS"
 date: 2014-11-23 18:37
-categories: experiment coding javascript web angularjs
+categories: blog
+tags: coding javascript web angularjs
 ---
 Documenting my attempts to learn AngularJS. I know almost no javascript. I've focused on C/embedded programming mostly, with some python and Java, but no Javascript. When I was in high school, I used to mess around with static HTML/CSS web pages with niblets of javascript thrown in for spice. In college, messed around a little more with manipulating the DOM using javascript, but never did anything meaningful, and I have since forgotten. So I'm effectively starting from scratch here.
 

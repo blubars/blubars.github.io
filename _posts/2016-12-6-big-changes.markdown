@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Big Changes Afoot"
-categories: thoughts
+categories: blog
+tags: thoughts
 ---
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/149630921@N02/24595111147/in/album-72157662233418787/" title="qcom-office"><img src="https://farm5.staticflickr.com/4732/24595111147_1bc77a1493_c.jpg" width="800" height="450" alt="qcom-office"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

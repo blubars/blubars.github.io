@@ -5,19 +5,15 @@ title: Projects
 <div class="home">
   <h1 class="page-heading">Projects</h1>
   <p>These are my current and past coding projects.</p>
-  <p>Work in progress.</p>
+
   <ul class="post-list">
-    {% for post in site.projects %}
+    {% for post in site.categories.project %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <span class="post-meta">- 
-          {% for cat in post.categories %}
-            [{{ cat }}]
-          {% endfor %}
-        </span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>

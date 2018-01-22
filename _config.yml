@@ -11,3 +11,7 @@ encoding: UTF-8
 
 # Build settings
 markdown: kramdown
+collections:
+  projects:
+    collections_dir: projects
+    output: true

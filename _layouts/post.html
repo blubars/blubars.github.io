@@ -12,4 +12,15 @@ layout: default
     {{ content }}
   </article>
 
+  <hr />
+  <p>
+    {% if page.previous %}
+    <a href="{{ page.previous.url }}">Previous: {{ page.previous.title }}</a> 
+    {% endif %}
+    &nbsp; • &nbsp;
+    {% if page.next %}
+    <a href="{{ page.next.url }}">Next: {{ page.next.title }}</a>
+    {% endif %}
+  </p>
+
 </div>

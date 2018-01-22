@@ -2,7 +2,8 @@
 layout: post
 title: "First Post!"
 date: 2014-11-22 13:37:17
-categories: experiment
+categories: blog
+tags: coding
 ---
 First post experiment, using Jekyll. Been looking around to find a good new blogging platform. Jekyll is a simple, open-source, static blog site generator. 
 
