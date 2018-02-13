@@ -6,3 +6,40 @@ categories: project
 ---
 This was our Machine Learning (CSCI 5622) final project. We worked with a local Boulder company, [WootMath](https://www.wootmath.com/), to see if we could apply unsupervised learning techniques to the area of personalized learning to automatically recognize types of student mistakes and misconceptions in grade school-level math problems (e.g. simplifying fractions). 
 
+As my first exposure to applying clustering to real-world data, this was an eye-opening experience. The dataset was huge, representing individual student attempts at thousands of different math problems, with math problems spanning hundreds of different lessons. Some students attempted problems more than once, and the majority of problems were only attempted by a handful of students. 
+
+## Approaches
+We took two approaches to clustering on this dataset. 
+
+### Approach 1
+The first, which I'll call top-down, clustered across all problems by turning the incorrect question responses into a bag of words and doing topic modeling on that. In this way we hoped to find questions and responses that indicated specific signatures of student misconceptions that were common across questions. If this was true, analyzing one question in that cluster would help teachers or Wootmath understand student results on other similar questions in the cluster.
+
+### Approach 2
+The second approach is the one I worked on, so I'll focus mainly on results from this approach. This one, which I'll call bottom-up, focused on just one question at a time. We would pick a question that had a few thousand student responses, and cluster the incorrect responses. If we found major clusters of incorrect student responses, that would indicate that students all missed the question in the same (systematic) way. If major groups of students are making the same systematic mistakes, we figured this could mean two things:
+1. A large group of students have a misconception about the mathematical concept being tested.
+2. The question is ambiguous. 
+3. The students know the correct answer but are having trouble entering/representing it to the WootMath software.
+
+The ML algorithm could highlight major groups, but distinguishing between these three options would have to be up to a human for now. 
+
+## The Algorithm (Approach 2)
+
+The examples were individual student attempts at a specific question. Student responses in the dataset are actually just internal representations of the final UI's canvas state (in the form of \[key:value\] pairs, e.g. \["circle-frac-num":"2"\]). 
+
+The input features were the union of all the types of fields in the response data from each individual student attempt at that question. Because the response data fields varied across questions, the feature input vector was unique to each question, preventing us from clustering across different questions (we attempted to come up with a common feature set, but this proved too daunting a task in the given timeframe).
+
+We considered treating the feature vectors in two different ways, leading us to two similar approaches here: 
+1. *Discrete*: leave key-value pairs as strings, and student responses are only similar if they are exactly the same. This makes it hard to compare similarity of student responses if they are not the same.
+2. *Continuous*: consider only numeric values from key-values pairs, and interpret them as numbers. This lets us map into a more continuous space, potentially finding more meaningful but more noisy clusters.
+
+For the two input vector paradigms, we had two algorithmic approaches:
+1. *Discrete*: KModes: choose a prototypical centroid to represent each cluster. In this case, each centroid must _exactly_ match each response in the cluster. 
+2. *Continuous*: KMeans, DBSCAN: Numeric clustering allows much more flexibility, letting us compare performance of several algorithms.
+
+## Results
+The results from were encouraging. Some questions (mostly simple ones) had a majority of responses correct and no major clusters, indicating that the concept was well-understood and straight-forward. Other questions did indeed have the large obvious clusters of incorrect that we were hoping to discover. 
+
+We presented the results to WootMath, and turned over our code to them to continue experimenting as they wished. The results are summarized below in our final report.
+
+[Click here](https://drive.google.com/open?id=0B4ipc5yORoEyYW9qTlVMdjQyOVFpQzJqYTl5dU52OXk2SGdN) for the final report.  
+[Click here](https://drive.google.com/open?id=17sQyFUtq_wicyNJXCYrxcru8Xr8cxEJ) for the poster.
