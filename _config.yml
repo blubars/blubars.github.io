@@ -1,11 +1,11 @@
 # Site settings
-title: brian's github pages blog
+title: brian's blog
 email: blubars@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Experimental blog using jekyll, hosted on github pages.
+  Experimental blog using jekyll + github pages.
 #baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: BrianLubars
+twitter_username: whobars
 github_username:  blubars
 encoding: UTF-8
 
