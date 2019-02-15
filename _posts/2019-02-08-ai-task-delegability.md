@@ -3,6 +3,7 @@ layout: post
 title: "AI Task Delegability"
 date: 2019-02-08 15:34
 categories: project
+tagline: "How appropriate are different tasks for machines? A human-centered approach. [arXiv:1902.03245]."
 ---
 Abstract: Although artificial intelligence holds promise for addressing societal challenges, issues of exactly which tasks to automate and the extent to do so remain understudied. We approach the problem of task delegability from a human-centered perspective by developing a framework on human perception of task delegation to artificial intelligence. We consider four high-level factors that can contribute to a delegation decision: motivation, difficulty, risk, and trust. To obtain an empirical understanding of human preferences in different tasks, we build a dataset of 100 tasks from academic papers, popular media portrayal of AI, and everyday life. For each task, we administer a survey to collect judgments of each factor and ask subjects to pick the extent to which they prefer AI involvement. We find little preference for full AI control and a strong preference for machine-in-the-loop designs, in which humans play the leading role. 
 

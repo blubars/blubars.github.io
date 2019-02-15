@@ -166,7 +166,8 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    //font-size: 22px;
+    font-size: 1.4em;
 }
 
 .post-list {
@@ -174,7 +175,7 @@
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: 20px;
     }
 }
 
@@ -232,5 +233,35 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+div.post-overview {
+    margin-bottom:0em;
+    line-height:1.35em;
+    padding-left:12px;
+    @extend %clearfix;
+
+    .left-box {
+        float:left;
+        max-width:40%;
+    }
+
+    .right-box {
+        overflow:hidden;
+    }
+
+    .post-link {
+        display: block;
+        font-size: 1.15em;
+        margin-left:-12px;
+    }
+
+    p.tagline {
+        font-size:0.95em;
+        color:#555;
+        padding:0em;
+        margin-bottom:0em;
+        padding-left:2em;
     }
 }

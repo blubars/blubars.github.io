@@ -53,23 +53,38 @@ layout: default
   <p style="margin-top:0.7em">Human-centered ML &amp; computational social science. I eat bagels and occasionally emit code.</p>
   <hr /><br />
 
-  <h1 class="page-heading">Lastest Blog Posts</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
+  <h1 class="page-heading" align="left">Lastest Blog Posts</h1>
+  <ul class="post-list" align="left">
+    {% for post in site.posts limit:7%}
+      {% assign skip = false %}
+      {% for cat in post.categories %}
+        {% if cat == "secret" %}
+          {% assign skip = true %}
+        {% endif %}
+      {% endfor %}
+      {% if skip %}
+        {% continue %}
+      {% endif %}
       <li>
+        <div class="post-overview">
+        <div class="left-box">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <span class="post-meta">- 
           {% for cat in post.categories %}
             [{{ cat }}]
           {% endfor %}
         </span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        </div>
+        <div class="right-box">
+        {% if post.tagline %}
+        <p class="tagline">
+          {{ post.tagline }}
+        </p>
+        {% endif %}
+        </div>
+        </div>
       </li>
-      {% if forloop.index > 3 %}
-        {% break %}
-      {% endif %}
     {% endfor %}
   </ul>
 </div>

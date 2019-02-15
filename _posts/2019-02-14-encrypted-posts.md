@@ -3,6 +3,8 @@ layout: post
 title: "Encrypted Blog Posts"
 date: 2019-02-14
 categories: blog 
+tags: coding crypto
+tagline: "Using good ol' PGP to make password-protected posts on gh-pages."
 ---
 SHHHHH SECRETS! Github pages is one of my favorite services. Fast, free, open web hosting?! Dream come true. Brings back nostalgic echo-feels of [GeoCities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) back in the day. But there is one thing missing. Private posts. I'm not a public person; I can also be a tad disorganized. Through the years I've tried a million ways of keeping track of notes journal entries and idle thoughts -- google docs, google notes, evernote, emails to myself, physical notebooks and journals -- things which I don't want to share with the world, and noise I'm sure the world doesn't want. What if I could just store everything on my blog, yet still have it be only available to me? The answer? PGP encryption.
 

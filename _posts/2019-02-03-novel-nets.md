@@ -3,6 +3,7 @@ layout: post
 title: "Novel Nets"
 date: 2019-02-03 23:17:12
 categories: project
+tagline: "Network analysis of books: code generalized, cleaned, and released."
 ---
 Last semester, I worked on a project to analyze the book <i>Infinite Jest</i> as a network. 
 Well, after a few more nights of work, I'm pleased to announce that it's now able to work on **any** book!

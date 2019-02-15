@@ -3,6 +3,7 @@ layout: post
 title: "Infinite Jest Nets"
 date: 2018-12-20 23:37:15
 categories: project
+tagline: "Analyzing David Foster Wallace's <i>Infinite Jest</i> as a character-interaction network."
 ---
 \[[View the visualization here!](https://hneutr.github.io/infinite_jest_webweb/)\] Does a fictional story structurally mirror our world, or is it fundamentally different? How does a story's structure impact its narrative? We analyze David Foster Wallace's <i>Infinite Jest</i> to attempt an answer to a variant of these two questions. Specifically, we represent the book as a growing network, with characters as nodes and character co-mentions as weighted edges. In a liberal interpretation, this gives an approximation a character-interaction network. Using standard static analysis techniques (degree distribution, transitivity, modularity, assortativity, and centralities), as well as dynamic techniques (sparsification vs densification, by examining largest component size, number of components, degree, and mean geodesic path as a function of book progress), we answer two questions:
 

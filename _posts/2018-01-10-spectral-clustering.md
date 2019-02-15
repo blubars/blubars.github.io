@@ -3,6 +3,7 @@ layout: post
 title: "Spectral Clustering Exploration"
 date: 2018-01-10
 categories: project
+tagline: "An exploration of spectral clustering: analysis, implementation, and some applications."
 ---
 Working with two other classmates, we conducted an in-depth analysis and exploration of [spectral clustering](https://en.wikipedia.org/wiki/Spectral_clustering), an unsupervised learning technique. 
 
