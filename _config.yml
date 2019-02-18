@@ -1,5 +1,5 @@
 # Site settings
-title: brian's blog
+title: Brian Lubars [blog]
 email: blubars@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Experimental blog using jekyll + github pages.

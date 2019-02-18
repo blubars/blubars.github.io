@@ -2,26 +2,36 @@
 layout: default
 ---
 <div class="home" style="text-align:center;">
-  <h1>Brian Lubars</h1>
-  <img src="{{ '/assets/img/profile-1.jpg' | prepend: site.baseurl }}" align="center" width="250" style="margin:1em;margin-top:0em;"/>
+  <!-- h-card. see indieweb! -->
+  <div class="h-card" style="font-size:1.15em;">
+  <img src="{{ '/assets/img/profile-1.jpg' | prepend: site.baseurl }}" align="center" width="225" style="margin:1em;margin-top:0em;" class="u-photo" alt="Photo of me." />
+  <br />
+  <a class="p-name u-url" href="http://blubars.github.io/">Brian Lubars</a>
+  &middot;
+  <span class="p-adr h-adr">
+    <span class="p-locality">Boulder, CO</span>
+    &middot;
+    <span class="p-country-name">United States</span>
+  </span>
+  </div>
 
-  <ul class="social-media-list" style="font-size:1.3em;display:inline;">
+  <ul class="social-media-list" style="font-size:1.15em;display:inline;">
     <li>
-      <a href="https://linkedin.com/in/brian-lubars" target="_blank">
+      <a href="https://linkedin.com/in/brian-lubars" rel="me" target="_blank">
         <span class="icon">
           <img src="{{ '/assets/icons/logo-linkedin-24.png' | prepend: site.baseurl }}" />
         </span>
         <span class="username">brian-lubars</span>
       </a>
       &middot;
-      <a href="https://facebook.com/blubars" target="_blank">
+      <a href="https://facebook.com/blubars" rel="me" target="_blank">
         <span class="icon">
           <img src="{{ '/assets/icons/logo-fb-24.png' | prepend: site.baseurl }}" />
         </span>
         <span class="username">blubars</span>
       </a>
       &middot;
-      <a href="https://instagram.com/blubars" target="_blank">
+      <a href="https://instagram.com/blubars" rel="me" target="_blank">
         <span class="icon">
           <img src="{{ '/assets/icons/logo-insta-24.png' | prepend: site.baseurl }}" />
         </span>
@@ -29,7 +39,7 @@ layout: default
       </a>
       &middot;
     {% if site.github_username %}
-      <a href="https://github.com/{{ site.github_username }}" target="_blank">
+      <a href="https://github.com/{{ site.github_username }}" rel="me" target="_blank">
         <span class="icon">
           <img src="{{ '/assets/icons/logo-github-24.png' | prepend: site.baseurl }}" />
         </span>
@@ -38,7 +48,7 @@ layout: default
       &middot;
     {% endif %}
     {% if site.twitter_username %}
-      <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">
+      <a href="https://twitter.com/{{ site.twitter_username }}" rel="me" target="_blank">
         <span class="icon">
           <img src="{{ '/assets/icons/logo-twitter-24.png' | prepend: site.baseurl }}" />
         </span>
@@ -48,10 +58,11 @@ layout: default
     </li>
   </ul>
 
-  <br /><hr />
-  <!-- <p style="margin-top:0.7em">Amateur photographer, aimless wanderer, bagel eater, space heater. Occasionally I emit code.</p> -->
-  <p style="margin-top:0.7em">Human-centered ML &amp; computational social science. I eat bagels and occasionally emit code.</p>
-  <hr /><br />
+  <div style="margin:0.8em 0em;">
+    <hr />
+    <p style="margin:0.5em 0em;">Human-centered ML &amp; computational social science. I eat bagels and occasionally emit code.</p>
+    <hr />
+  </div>
 
   <h1 class="page-heading" align="left">Latest Project &amp; Blog Posts</h1>
   <ul class="post-list" align="left">

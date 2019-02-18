@@ -93,7 +93,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit / 2;
 }
 
 .footer-heading {
@@ -279,5 +279,10 @@ div.post-overview {
         margin-bottom:0em;
         padding-left:2em;
     }
+}
+
+.comment {
+    font-size:0.9em;
+    color:$grey-color-dark;
 }
 
