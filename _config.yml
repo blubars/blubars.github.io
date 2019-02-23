@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: whobars
 github_username:  blubars
 encoding: UTF-8
+google_analytics: yes
 
 # Build settings
 markdown: kramdown

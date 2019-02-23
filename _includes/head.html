@@ -8,3 +8,6 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="shortcut icon" href="{{ '/assets/icons/favicon.ico' | prepend:site.baseurl }}" type="image/x-icon" />
+{% if site.google_analytics and jekyll.environment == 'production' %}
+    {% include analytics.html %}
+{% endif %}
